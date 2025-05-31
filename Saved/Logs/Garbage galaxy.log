@@ -4906,3 +4906,4 @@ Ponownie wygenerować szkielet z tej siatki? Może to spowodować unieważnienie
 [2025.05.31-20.32.21:694][256]LogNetworkingProfiler: Shutdown
 [2025.05.31-20.32.21:694][256]LoadingProfiler: Shutdown
 [2025.05.31-20.32.21:695][256]LogTimingProfiler: Shutdown
+[2025.05.31-20.48.43:768][256]LogDerivedDataCache: C:/Users/mkh63/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
