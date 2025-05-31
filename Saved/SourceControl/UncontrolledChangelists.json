@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/glass__Freighter_col_bake.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/glass.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freigther_BI_Export_Skeleton.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freigther_BI_Export_PhysicsAsset.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freigther_BI_Export_Anim_Default_Take.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freigther_BI_Export_Anim_ArmatureAction.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freigther_BI_Export.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freighter_1__Freighter_col_bake.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/Ship/Freighter_1.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Blueprints/BP_Ship.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Input/Actions/IA_Lift.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Input/IMC_Ship.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XJ/7BGHT3NVAEMDW4HYV74NYU.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Input/Actions/IA_Roll.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Input/Actions/IA_Strafe.uasset",
+				"C:/Users/mkh63/OneDrive/Pulpit/Gry/garbage galaxy ue5/Garbage galaxy/Content/FirstPerson/Input/Actions/IA_MoveForward.uasset"
+			]
+		}
+	]
+}
